@@ -9,4 +9,4 @@
 
 
 
-python ../src/validation.py ../input/window.txt ../input/actual.txt ../input/predicted.txt ../output/comparison.txt
+python3 ../src/validation.py ../input/window.txt ../input/actual.txt ../input/predicted.txt ../output/comparison.txt
