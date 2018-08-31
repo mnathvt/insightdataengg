@@ -5,4 +5,8 @@
 #python3 ./src/script.py ./input/window.txt ./input/actual.txt ./input/predicted.txt ./output/comparison.txt
 
 
-python src/script.py
+#python src/script.py
+
+
+
+python ../src/validation.py ../input/window.txt ../input/actual.txt ../input/predicted.txt ../output/comparison.txt
